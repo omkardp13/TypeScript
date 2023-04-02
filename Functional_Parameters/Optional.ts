@@ -1,3 +1,7 @@
+//Optional parameters in TypeScript are a feature that allows developers to define function parameters that may or may not be passed when the function is called.
+//Optional parameters are indicated by adding a question mark ? after the parameter name.
+
+
 //Optional Parameter
 
 function Area(Redius:number,PI ? :number,Abc ?:number):number
